@@ -1,13 +1,13 @@
 Programa em python que receba como entrada uma lista de números e um valor e produza<br> 
 como saída os pares de números da lista que somados resultam no valor de entrada.
 
-Exemplo 01:
-Entrada: lista1 = [1, 5, 7, -1], soma = 6
-Saída: 2 Pares com soma 6 são (1, 5) e (7, -1)
+Exemplo 01:<br>
+Entrada: lista1 = [1, 5, 7, -1], soma = 6<br>
+Saída: 2 Pares com soma 6 são (1, 5) e (7, -1)<br>
 
-Exemplo 02:
-Entrada: lista2 = [1, 5, 7, -1, 5], soma = 6
-Saída: 3 Pares com soma 6 são (1, 5), (7, -1) e (1, 5)
+Exemplo 02:<br>
+Entrada: lista2 = [1, 5, 7, -1, 5], soma = 6<br>
+Saída: 3 Pares com soma 6 são (1, 5), (7, -1) e (1, 5)<br>
 
 ## Resolução do exercício
 
